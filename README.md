@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/bild.jpg" alt="Profilbild" width="200">
+</p>
+
 <p>
 ## Halloo
 </p>
